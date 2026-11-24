@@ -1,1 +1,9 @@
-{"name":"media-hub","private":true,"version":"1.0.0","type":"module"}
+{
+  "name": "media-hub",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/media-hub.test.mjs"
+  }
+}
